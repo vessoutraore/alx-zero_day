@@ -1,6 +1,6 @@
 # 0x03. Git
 
-##General
+## General
 * What is source code management
 * What is Git
 * What is GitHub
@@ -21,3 +21,4 @@
 
 Create a new directory called 0x03-git in your alx-zero_day repo.
 
+# End of this project
